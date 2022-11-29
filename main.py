@@ -3,7 +3,7 @@
 
 import random
 
-chars = 'qwertyyuiopasdfghjklzxcvbnmQWERTYYUIOPASDFGHJKLZXCVBNM'
+chars = 'qwertyyuiopasdfghjklzxcvbnmQWERTYYUIOPASDFGHJKLZXCVBNM123456789'
 number = input('количество паролей?'+ "\n")
 length = input('длина пароля?'+ "\n")
 number = int(number)
